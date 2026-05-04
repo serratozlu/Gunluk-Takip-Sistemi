@@ -1,0 +1,14 @@
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.AssemblyInfoInputs.cache
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.AssemblyInfo.cs
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\bin\Debug\net10.0\Gunluk-Takip-Sistemi.exe
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\bin\Debug\net10.0\Gunluk-Takip-Sistemi.deps.json
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\bin\Debug\net10.0\Gunluk-Takip-Sistemi.runtimeconfig.json
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\bin\Debug\net10.0\Gunluk-Takip-Sistemi.dll
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\bin\Debug\net10.0\Gunluk-Takip-Sistemi.pdb
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.dll
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\refint\Gunluk-Takip-Sistemi.dll
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.pdb
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\Gunluk-Takip-Sistemi.genruntimeconfig.cache
+C:\Users\serra_o2npc.DESKTOP-OC66QKV\Desktop\BTK\Projeler\Proje-3\Gunluk-Takip-Sistemi\obj\Debug\net10.0\ref\Gunluk-Takip-Sistemi.dll
