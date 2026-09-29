@@ -1,4 +1,3 @@
-# Gunluk-Takip-Sistemi
 # 📓 Günlük Takip Sistemi (Daily Record System)
 
 C# ve .NET mimarisi kullanılarak geliştirilmiş, Nesne Yönelimli Programlama (OOP) prensiplerine ve dosya tabanlı veri kalıcılığına dayanan konsol tabanlı bir günlük yönetim uygulamasıdır.
